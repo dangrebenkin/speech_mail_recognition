@@ -8,8 +8,8 @@ import ast
 import pandas as pd
 
 # TODO: use as enviroment variables
-KALDI_RU_PATH = '/Users/evgenijdedov/audio_recognition/kaldi-ru/kaldi-ru-0.6'
-os.environ['KALDI_ROOT'] = '/Users/evgenijdedov/audio_recognition/kaldi/kaldi/'
+KALDI_RU_PATH = '/audio_recognition/kaldi-ru/kaldi-ru-0.6'
+os.environ['KALDI_ROOT'] = '/audio_recognition/kaldi/kaldi/'
 CUR_PATH = os.path.split(os.path.abspath(__file__))[0]
 
 
