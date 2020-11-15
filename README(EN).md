@@ -41,3 +41,10 @@ Concludes the information of recognition to stdout.
 ### Example:
 
     python3 run.py -rd audio/ --labels Etalon2.csv -log
+## Authors
+
+Bair Tuchinov, Evgeniy Pavlovsky, Daniel Grebenkin, Ivan Bondarenko, Olga Yakovenko, Evgeniy Dedov.
+## Links 
+
+https://bigdata.nsu.ru/
+https://vk.com/lapdimo
