@@ -46,5 +46,6 @@ Concludes the information of recognition to stdout.
 Bair Tuchinov, Evgeniy Pavlovsky, Daniel Grebenkin, Ivan Bondarenko, Olga Yakovenko, Evgeniy Dedov.
 ## Links 
 
-https://bigdata.nsu.ru/
-https://vk.com/lapdimo
+1) Бондаренко, И., Яковенко, О. С., Дедов, Е. И., Гребенкин, Д. В., Павловский, Е. Н., & Тучинов, Б. Н. (2019). Система определения автоответчика и гендера (пола) по аудиозаписям телефонного разговора. (Патент/Св-во№ 32). Новосибирский государственный университет.
+2) https://bigdata.nsu.ru/
+3) https://vk.com/lapdimo
